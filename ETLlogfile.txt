@@ -1,0 +1,7 @@
+2022-Mar-28-11:30:06,ETL Job Started
+2022-Mar-28-11:30:06,Extract phase Started
+2022-Mar-28-11:30:08,Extract phase Ended
+2022-Mar-28-11:30:08,Transform phase Started
+2022-Mar-28-11:30:18,Transform phase Ended
+2022-Mar-28-11:30:19,Load phase Started
+2022-Mar-28-11:30:46,Load phase Ended
